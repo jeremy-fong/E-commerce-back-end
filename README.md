@@ -54,7 +54,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## Video Preview of Project :
-[Video Preview]
+[Video Preview](https://drive.google.com/file/d/1y4iBZe7Pd3B55ZerlN10g_SOy867oJa4/view)
 
 ## Source :
 - GitHub Link: https://github.com/jeremy-fong/E-commerce-back-end
